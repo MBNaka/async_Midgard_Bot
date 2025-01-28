@@ -1,0 +1,6 @@
+files/.env
+files/bot.log
+files/bot_statistics.db
+files/credentials.json
+files/messages.json
+files/users.json
